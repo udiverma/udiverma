@@ -11,7 +11,7 @@ I'm a passionate developer working on innovative projects and pushing the bounda
 - 🌱  **Currently Learning:** Numerical Analysis, Secure Programming and Systems, Database Concepts
 - 💼  **Experience:** Working with Machine Learning Models (Deployment / Upgrade), Software Engineering (Full-Stack), and Risk and Assurance (Cyber / IT Compliance)
 - 💻  **Setup:** MacBook Pro with an Apple M1 Max chip, 64 GB memory, running macOS Sonoma 14.0
-- 🎵  **Favorite Song Right Now:**
+- 🎵  **Currently Listening To:**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pvupmeyitdfxinletrg236qkny&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1118&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31pvupmeyitdfxinletrg236qkny&redirect=true)
 
