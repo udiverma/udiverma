@@ -19,14 +19,14 @@ I'm a passionate developer working on innovative projects and pushing the bounda
 ## Projects
 <- [LiveCensor](https://github.com/udiverma/LiveCensor) - Advanced live video censoring tool>
 <- [Voice Encryption for Calls](https://github.com/udiverma/VoiceEncryption) - Ensuring secure voice communication>
--->
+
 
 ## Connect with Me
 - [GitHub](https://github.com/udiverma)
 - [LinkedIn](https://www.linkedin.com/in/udiverma/)
 - [Website](https://uverma.com/)
 - [Resume](https://github.com/udiverma/assets/blob/d4685f0853dd5e13a2360eae85406ec19f7d8467/Udit_Resume_ML_Fall_2024.pdf)
-
+-->
 ## Coursework
 - **Computer Science Coures:** Object-Oriented Programming, Data Structures & Algorithms, Software Engineering, Data Mining, Deep Learning, Artificial Intelligence, Machine Learning, Computer Vision
 - **Mathematics Courses:** Discrete Math, Linear Algebra, Numerical Analysis, Calculus, Probability & Statistics, Calculus-Based Physics
