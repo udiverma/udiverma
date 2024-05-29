@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Udi
+# 👋  Hi, I'm Udit
 
 [![GitHub followers](https://img.shields.io/github/followers/udiverma?label=Follow&style=social)](https://github.com/udiverma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/udiverma/)
@@ -51,4 +51,4 @@ I love exploring new technologies and applying them to solve real-world problems
 -->
 ---
 
-⭐️ From [Udi](https://github.com/udiverma)
+⭐️ From [Udit](https://github.com/udiverma)
