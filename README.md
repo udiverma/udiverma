@@ -13,7 +13,7 @@ I'm a passionate developer working on innovative projects and pushing the bounda
 - 💻  **Setup:** MacBook Pro with an Apple M1 Max chip, 64 GB memory, running macOS Sonoma 14.0
 - 🎵  **Favorite Song Right Now:**
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4q7y1JFDBJSBSLqXVgcI51?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pvupmeyitdfxinletrg236qkny&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1118&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31pvupmeyitdfxinletrg236qkny&redirect=true)
 
 <!---
 ## Projects
